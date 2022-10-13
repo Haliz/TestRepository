@@ -1,2 +1,3 @@
 Good bye!
 Вторая строка.
+Line from user1!
